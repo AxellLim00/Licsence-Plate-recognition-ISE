@@ -1,0 +1,33 @@
+﻿  Source.cpp
+X:\OneDrive - Asia Pacific University\UNI\Year 2 Sem 2\ISE\Assignmenty\OCR\OCR\Source.cpp(68,75): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+X:\OneDrive - Asia Pacific University\UNI\Year 2 Sem 2\ISE\Assignmenty\OCR\OCR\Source.cpp(68,46): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+X:\OneDrive - Asia Pacific University\UNI\Year 2 Sem 2\ISE\Assignmenty\OCR\OCR\Source.cpp(76,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+X:\OneDrive - Asia Pacific University\UNI\Year 2 Sem 2\ISE\Assignmenty\OCR\OCR\Source.cpp(76,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+X:\OneDrive - Asia Pacific University\UNI\Year 2 Sem 2\ISE\Assignmenty\OCR\OCR\Source.cpp(102,75): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+X:\OneDrive - Asia Pacific University\UNI\Year 2 Sem 2\ISE\Assignmenty\OCR\OCR\Source.cpp(102,46): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+X:\OneDrive - Asia Pacific University\UNI\Year 2 Sem 2\ISE\Assignmenty\OCR\OCR\Source.cpp(110,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+X:\OneDrive - Asia Pacific University\UNI\Year 2 Sem 2\ISE\Assignmenty\OCR\OCR\Source.cpp(110,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+X:\OneDrive - Asia Pacific University\UNI\Year 2 Sem 2\ISE\Assignmenty\OCR\OCR\Source.cpp(276,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+X:\OneDrive - Asia Pacific University\UNI\Year 2 Sem 2\ISE\Assignmenty\OCR\OCR\Source.cpp(346,21): warning C4018: '<': signed/unsigned mismatch
+X:\OneDrive - Asia Pacific University\UNI\Year 2 Sem 2\ISE\Assignmenty\OCR\OCR\Source.cpp(357,20): warning C4018: '<': signed/unsigned mismatch
+X:\OneDrive - Asia Pacific University\UNI\Year 2 Sem 2\ISE\Assignmenty\OCR\OCR\Source.cpp(378,21): warning C4018: '<': signed/unsigned mismatch
+X:\OneDrive - Asia Pacific University\UNI\Year 2 Sem 2\ISE\Assignmenty\OCR\OCR\Source.cpp(389,20): warning C4018: '<': signed/unsigned mismatch
+X:\OneDrive - Asia Pacific University\UNI\Year 2 Sem 2\ISE\Assignmenty\OCR\OCR\Source.cpp(409,21): warning C4018: '<': signed/unsigned mismatch
+X:\OneDrive - Asia Pacific University\UNI\Year 2 Sem 2\ISE\Assignmenty\OCR\OCR\Source.cpp(420,20): warning C4018: '<': signed/unsigned mismatch
+opencv_world420.lib(opencv_world420.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'
